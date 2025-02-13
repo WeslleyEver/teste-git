@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+section{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.container_info{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  width: 100px;
+  height: 100px;
+  border: 1px solid #fff;
+}
